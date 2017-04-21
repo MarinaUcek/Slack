@@ -1,2 +1,4 @@
 # Slack
-Slack welcome page replication
+Slack - Welcome page website replication 
+
+https://marinaucek.github.io/Slack/
